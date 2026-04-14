@@ -41,8 +41,18 @@ The goal of this project is to strengthen data analysis skills while demonstrati
 * **Seaborn** – advanced statistical visualization
 
 ---
-
-## 📂 Project Structure
+## Project Structure 
+  
+```
+Data-Visualization-using-Python/
+│
+├── Weather_Data_Visualise/           
+├── Matphotlib/           
+├── Seaborn/              
+├── .gitignore             
+├── README.md    
+```
+## 📂 Future Project Structure
 
 ```
 Data-Visualization-using-Python/
